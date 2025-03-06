@@ -1,0 +1,10 @@
+ansible_connection: ansible.netcommon.httpapi
+ansible_network_os: cisco.dcnm.dcnm
+ansible_httpapi_validate_certs: no
+ansible_httpapi_use_ssl: yes
+
+
+#user-name password for ndfc1 & ndfc2 hosts
+ansible_httpapi_login_domain: local
+ansible_user: user1
+ansible_password: password1
