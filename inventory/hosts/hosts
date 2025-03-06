@@ -1,0 +1,7 @@
+---
+ndfc:
+  hosts:
+    ndfc2:
+      ansible_host: 10.10.0.1
+    ndfc1:
+      ansible_host: 198.10.0.1
