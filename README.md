@@ -1,7 +1,5 @@
 # Ansible-NDFC-Fabric-Roles
 
-# Pre-requisites
-
 ## Install Ansible Roles
 
  - Download the respective Ansible roles from the repository above and copy the respective role directory under the "roles" folder
